@@ -17,9 +17,9 @@
 
 title: Open Coding 
 description: "Class of 2026"
-owner_name: Open Coding Society 
-github_username: open-coding-society 
-github_repo: "pages" 
+owner_name: Eshika Palalpotu
+github_username: EshikaP1
+github_repo: "pages-thinkers-eshika" 
 baseurl: "" 
 future: true
 
@@ -107,7 +107,7 @@ plugins:
 minima:
   skin: dark
   social_links:
-    - { platform: github, user_url: "https://github.com/open-coding-society" }
+    - { platform: github, user_url: "https://github.com/EshikaP1" }
     - { platform: x, user_url: "https://x.com/Open_Coding" }
     - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" } 
   nav_pages:
